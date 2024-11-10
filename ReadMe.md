@@ -16,4 +16,4 @@ The `binarySearchFirst` functions find the first occurrence of a target value in
 Compile both files together and run the resulting executable. The program will prompt you to enter a target value to search for in predefined sorted arrays and vectors.
 
 ## Author
-[Your Name]
+[Furkan Hanci]
